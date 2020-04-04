@@ -1,2 +1,3 @@
 # TestApi
-Rep for project test Rest Api
+
+Репозиторий для тестирования запросов и сценариев Web API
